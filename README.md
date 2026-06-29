@@ -111,3 +111,7 @@ This is an independent engineering study by **Akosa Samuel Onyejekwe**, built on
 published correlations and representative tieback parameters. It is intended for
 educational and illustrative flow-assurance analysis, not as a design basis for
 any specific asset.
+
+## License
+
+Released under the [MIT License](LICENSE) — © 2026 Akosa Samuel Onyejekwe.
