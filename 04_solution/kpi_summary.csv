@@ -1,0 +1,25 @@
+KPI,Value
+Inlet pressure,70 bar
+Outlet (arrival) pressure,71.8 bar
+Total pressure drop,-1.8 bar
+Inlet temperature,60 degC
+Minimum temperature,5.1 degC
+Outlet temperature,5.1 degC
+Inlet GVF,0.13
+Outlet GVF,0.09
+Mean liquid holdup,0.90
+Slug-flow length (% of line),100 %
+Mean slug frequency,0.077 Hz
+Mean slug length,13.0 m
+Slug transl. velocity,1.49 m/s
+Dominant sag location,7.8 km
+Sag uphill leg height,126 m
+Terrain-slug period,10.1 min
+Terrain-slug pressure swing,9.0 bar
+Terrain-slug liquid surge,22 x mean
+Boe number @ design,"5.3 (stable, slugs at turndown)"
+Hydrate-risk zone length,9.4 km
+Max hydrate sub-cooling (flowing),10.1 degC
+"Hydrate zone (% of line, flowing)",59 %
+Shutdown no-touch time,0.0 h
+Recommended MEG dose,~30 wt% (flowing) / ~50 wt% (shut-in)

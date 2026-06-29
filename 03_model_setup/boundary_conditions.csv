@@ -1,0 +1,6 @@
+Boundary,Type,Specification
+Inlet (wellhead/manifold),Dirichlet pressure,P = 70 bar
+Inlet (wellhead/manifold),Dirichlet temperature,T = 60 degC
+Inlet (wellhead/manifold),Mass-flow inlet,fixed liquid + gas mass flow
+Pipe wall,Convective (Robin),"U = 9.0 W/m2/K, T_amb = 4 degC (seabed)"
+Outlet (host),Pressure outlet,arrival/separator pressure (free)

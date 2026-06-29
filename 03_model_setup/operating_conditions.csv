@@ -1,0 +1,8 @@
+Quantity,Symbol,Value,Unit
+Oil rate (stock tank),qo,9000.0,stb/d
+"Liquid rate (in-situ, inlet)",ql,0.0251,m3/s
+Inlet (wellhead/manifold) pressure,P_in,70.0,bar
+Inlet temperature,T_in,60.0,degC
+Seabed (ambient) temperature,T_seabed,4.0,degC
+Pipeline OHTC,U_pipe,9.0,W/m2/K
+Mass flow rate,mdot,22.2,kg/s

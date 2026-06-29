@@ -1,0 +1,4 @@
+Constant,Meaning,Calibrated value,Unit,Calibration source
+C_fr,Flow-regime transition factor,1.0,-,Taitel-Dukler (1976) map
+C_sl,Slug-frequency factor,1.0,-,Gregory & Scott (1969) data
+C_hy,Hydrate equilibrium-temperature offset,-3.06,degC,Deaton & Frost (1946) methane data

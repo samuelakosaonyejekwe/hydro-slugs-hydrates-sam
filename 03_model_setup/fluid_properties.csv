@@ -1,0 +1,12 @@
+Property,Symbol,Value,Unit
+Oil API gravity,API,36.0,degAPI
+Oil specific gravity,gamma_o,0.8448,-
+Gas specific gravity (air=1),gamma_g,0.72,-
+Producing GOR,GOR,850.0,scf/stb
+Water cut,WC,0.28,fraction
+Produced-water density,rho_w,1025.0,kg/m3
+Water viscosity,mu_w,0.0006,Pa.s
+Gas-oil interfacial tension,sigma_go,0.022,N/m
+Gas-water interfacial tension,sigma_gw,0.055,N/m
+Liquid heat capacity,cp_l,2100.0,J/kg/K
+Gas heat capacity,cp_g,2400.0,J/kg/K

@@ -1,0 +1,14 @@
+Setting,Value
+Spatial discretisation,"Finite-volume, graded"
+Cells,240
+ODE integrator,RK45 (adaptive)
+Relative tolerance,1e-6
+Absolute tolerance,1e-2
+Transient time step,0.5 s
+PVT model,Standing + Beggs-Brill Z
+Holdup model,Bendiksen (1984) drift-flux
+Friction model,Haaland (1983)
+Hydrate model,"Motiee (1991), calibrated"
+Inhibitor model,Hammerschmidt (1934)
+Slug model,Gregory-Scott + Bendiksen
+Severe-slugging model,Taitel (1986)-type cycle

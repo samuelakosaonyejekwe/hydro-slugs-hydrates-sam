@@ -1,0 +1,4 @@
+Validated quantity,Reference,Metric,Verdict
+Hydrate equilibrium temperature,Deaton & Frost (1946),AAD = 0.28 °C; RMSE = 0.30 °C; R² = 0.9962; MAPE = 5.7%,Excellent
+Slug translational velocity,Nicklin (1962) / Bendiksen (1984),Exact reproduction of accepted coefficients (C0=1.2; Vd),Excellent
+Slug frequency,Zabaras (2000),Mean deviation 18% (within ±30% band),Acceptable (within model scatter)
