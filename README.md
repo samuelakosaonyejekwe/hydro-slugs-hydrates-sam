@@ -1,5 +1,7 @@
 # Hydro Slugs & Hydrates — Subsea Tieback Flow-Assurance Study
 
+**Author: Akosa Samuel Onyejekwe**
+
 A flow-assurance study of a deepwater subsea oil **tieback**, focused on the two
 phenomena that most threaten steady production in a long, undulating subsea line:
 **multiphase slugging** (hydrodynamic, terrain, and severe/riser-base) and
@@ -105,7 +107,7 @@ solver.
 
 ## Disclaimer
 
-This is an independent engineering study built on published correlations and
-representative tieback parameters. It is intended for educational and
-illustrative flow-assurance analysis, not as a design basis for any specific
-asset.
+This is an independent engineering study by **Akosa Samuel Onyejekwe**, built on
+published correlations and representative tieback parameters. It is intended for
+educational and illustrative flow-assurance analysis, not as a design basis for
+any specific asset.
